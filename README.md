@@ -1,6 +1,8 @@
 # aptos-keygrind
 CLI tool to generate aptos keys.
 
+Credit to https://github.com/solana-labs/solana/tree/master/keygen for some code I took.
+
 ## Installation
 
 TBD: pending an update to aptos crates.
